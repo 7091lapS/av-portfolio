@@ -155,7 +155,8 @@ $gu-news-headline: #ff1921; */
   }
   .cape_town, .gif {
     max-width: 960px;
-    padding-right: 20px;
+    margin-right: 20px;
+    /* border: 1px solid #fff; */
   }
 }
 
